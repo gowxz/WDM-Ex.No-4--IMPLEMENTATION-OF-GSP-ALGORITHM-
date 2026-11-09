@@ -1,9 +1,10 @@
 # WDM-Ex.No-4--IMPLEMENTATION-OF-GSP-ALGORITHM-
 ## Name: Gowtham S
 ## Reg no: 2305002008
-**Aim:** 
+### Aim:
  To create a python program for implementing GSP Algorithm. 
-**Program:** 
+ 
+### Program:
 **gsp2.py** 
 ```python
 import os 
